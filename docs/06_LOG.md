@@ -1,0 +1,1 @@
+* https://docs.microsoft.com/zh-tw/aspnet/core/blazor/fundamentals/logging?view=aspnetcore-3.1

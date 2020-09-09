@@ -1,0 +1,2 @@
+* https://docs.microsoft.com/zh-tw/aspnet/core/blazor/security/webassembly/hosted-with-identity-server?view=aspnetcore-3.1&tabs=visual-studio
+* https://docs.microsoft.com/zh-tw/aspnet/core/blazor/security/?view=aspnetcore-3.1
