@@ -48,3 +48,10 @@
 25. 串聯的值與參數
     * https://docs.microsoft.com/zh-tw/aspnet/core/blazor/components/cascading-values-and-parameters?view=aspnetcore-3.1
 26. 結尾
+
+
+開場-節目介紹
+場地布置
+道具講解
+技巧展示
+謝幕
