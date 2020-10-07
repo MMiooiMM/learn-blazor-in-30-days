@@ -1,3 +1,5 @@
+Microsoft.Extensions.Http
+
 Nuget = Microsoft.AspNetCore.Components.WebAssembly.Authentication
 
 
